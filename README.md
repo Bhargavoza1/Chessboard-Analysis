@@ -57,4 +57,5 @@ The accuracy calculation assumes the chessboard has exactly 32 black squares and
 
 ## Troubleshooting
 No image found: Ensure the image is stored in the "data" folder and that the file path is correct in the code.
+
 Contour detection fails: This might happen if the image quality is poor or the chessboard is not fully visible. Try using a clearer image or adjusting the preprocessing parameters.
