@@ -20,5 +20,5 @@ This program processes an image of a chessboard to identify and classify its squ
 
 You can install the required dependencies using:
 ```bash
-pip install opencv-python numpy
+pip install -r requirements.txt
 ```
